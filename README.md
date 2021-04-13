@@ -5,9 +5,9 @@ Here I provide the data and code for replicating the findings presented in the d
 # Data
 ## All data are county-level and joined using a common FIPS code
 
-* Deaths_2010.xlsx - Deaths for 2009-2011 obtained from CDC Wonder on April 13, 2021.
+* Deaths_2010.xlsx - Deaths for 2009-2011 obtained from [CDC Wonder](https://wonder.cdc.gov/) on April 13, 2021.
 * nhgis_ppdd_20200527_county.xlsx - Selected variables from the original demonstration products published by [NHGIS](https://nhgis.org/privacy-protected-demonstration-data#v20200527). 
-* ruralurbancodes2013.xls - 2013 Rural Urban Continuum Codes. 
+* ruralurbancodes2013.xls - [2013 Rural Urban Continuum Codes](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx). 
 
 # Code
 The code included in this repository produced the visualization and supporting tabulations. 
